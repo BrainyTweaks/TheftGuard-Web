@@ -4,8 +4,6 @@
 
 **TheftGuard** takes raw current measurements from an ESP32‑based sensor and turns them into a polished, premium web experience. Whether you're a hobbyist tracking a 3D printer or a facility manager monitoring critical loads, TheftGuard delivers real‑time insights, automated alerts, and intelligent analytics—all wrapped in a modern, installable Progressive Web App (PWA).
 
-![TheftGuard dashboard](./screenshot.png)
-
 ---
 
 ## 🚀 Why TheftGuard?
